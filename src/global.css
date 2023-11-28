@@ -1,8 +1,11 @@
 :root {
     --white: #fff;
-    --gray-dark:#121214; 
+    --gray-dark:#121214;
+    --gray-medium:  #323238;
     --gray-semiDark: #202024;
     --gray-light: #c4c4c4;
+
+    --green-medium: #00875f;
 }   
 
 * {
